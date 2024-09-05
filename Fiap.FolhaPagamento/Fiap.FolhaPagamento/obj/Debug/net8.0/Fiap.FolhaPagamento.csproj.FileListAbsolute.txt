@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.exe
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.deps.json
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.runtimeconfig.json
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.dll
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.pdb
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.dll
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\refint\Fiap.FolhaPagamento.dll
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.pdb
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\ref\Fiap.FolhaPagamento.dll
